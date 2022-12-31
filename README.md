@@ -10,4 +10,6 @@
 
 5. CSS Specificity
 
-6. C
+6. CSS Colors
+
+7. Exercises
